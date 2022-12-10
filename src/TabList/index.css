@@ -1,0 +1,38 @@
+.listItem {
+  font-size: 16px;
+  color: white;
+  margin: 4px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.listItem1 {
+  font-size: 16px;
+  color: #fec653;
+  margin: 4px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.liner {
+  width: 60px;
+  height: 3px;
+  background-color: white;
+  display: none;
+}
+.liner1 {
+  width: 60px;
+  height: 3px;
+  background-color: #fec653;
+  display: flex;
+  margin: 0px;
+}
+.listCONtenrrrrr {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
